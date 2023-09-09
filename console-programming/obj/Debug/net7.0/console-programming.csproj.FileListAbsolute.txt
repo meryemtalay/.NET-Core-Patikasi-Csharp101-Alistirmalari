@@ -1,0 +1,14 @@
+D:\Pratikler\console-programming\bin\Debug\net7.0\console-programming.exe
+D:\Pratikler\console-programming\bin\Debug\net7.0\console-programming.deps.json
+D:\Pratikler\console-programming\bin\Debug\net7.0\console-programming.runtimeconfig.json
+D:\Pratikler\console-programming\bin\Debug\net7.0\console-programming.dll
+D:\Pratikler\console-programming\bin\Debug\net7.0\console-programming.pdb
+D:\Pratikler\console-programming\obj\Debug\net7.0\console-programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\console-programming\obj\Debug\net7.0\console-programming.AssemblyInfoInputs.cache
+D:\Pratikler\console-programming\obj\Debug\net7.0\console-programming.AssemblyInfo.cs
+D:\Pratikler\console-programming\obj\Debug\net7.0\console-programming.csproj.CoreCompileInputs.cache
+D:\Pratikler\console-programming\obj\Debug\net7.0\console-programming.dll
+D:\Pratikler\console-programming\obj\Debug\net7.0\refint\console-programming.dll
+D:\Pratikler\console-programming\obj\Debug\net7.0\console-programming.pdb
+D:\Pratikler\console-programming\obj\Debug\net7.0\console-programming.genruntimeconfig.cache
+D:\Pratikler\console-programming\obj\Debug\net7.0\ref\console-programming.dll

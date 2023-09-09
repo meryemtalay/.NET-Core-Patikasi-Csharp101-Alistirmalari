@@ -1,0 +1,14 @@
+D:\Pratikler\degiskenler\bin\Debug\net7.0\degiskenler.exe
+D:\Pratikler\degiskenler\bin\Debug\net7.0\degiskenler.deps.json
+D:\Pratikler\degiskenler\bin\Debug\net7.0\degiskenler.runtimeconfig.json
+D:\Pratikler\degiskenler\bin\Debug\net7.0\degiskenler.dll
+D:\Pratikler\degiskenler\bin\Debug\net7.0\degiskenler.pdb
+D:\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.AssemblyInfoInputs.cache
+D:\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.AssemblyInfo.cs
+D:\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.csproj.CoreCompileInputs.cache
+D:\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.dll
+D:\Pratikler\degiskenler\obj\Debug\net7.0\refint\degiskenler.dll
+D:\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.pdb
+D:\Pratikler\degiskenler\obj\Debug\net7.0\degiskenler.genruntimeconfig.cache
+D:\Pratikler\degiskenler\obj\Debug\net7.0\ref\degiskenler.dll
