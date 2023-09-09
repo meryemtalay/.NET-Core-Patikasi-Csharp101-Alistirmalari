@@ -1,0 +1,4 @@
+D:\Pratikler\obj\Debug\net7.0\Pratikler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\obj\Debug\net7.0\Pratikler.AssemblyInfoInputs.cache
+D:\Pratikler\obj\Debug\net7.0\Pratikler.AssemblyInfo.cs
+D:\Pratikler\obj\Debug\net7.0\Pratikler.csproj.CoreCompileInputs.cache
