@@ -1,0 +1,14 @@
+D:\Pratikler\If-ElseIf-Ternary-If\bin\Debug\net7.0\If-ElseIf-Ternary-If.exe
+D:\Pratikler\If-ElseIf-Ternary-If\bin\Debug\net7.0\If-ElseIf-Ternary-If.deps.json
+D:\Pratikler\If-ElseIf-Ternary-If\bin\Debug\net7.0\If-ElseIf-Ternary-If.runtimeconfig.json
+D:\Pratikler\If-ElseIf-Ternary-If\bin\Debug\net7.0\If-ElseIf-Ternary-If.dll
+D:\Pratikler\If-ElseIf-Ternary-If\bin\Debug\net7.0\If-ElseIf-Ternary-If.pdb
+D:\Pratikler\If-ElseIf-Ternary-If\obj\Debug\net7.0\If-ElseIf-Ternary-If.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\If-ElseIf-Ternary-If\obj\Debug\net7.0\If-ElseIf-Ternary-If.AssemblyInfoInputs.cache
+D:\Pratikler\If-ElseIf-Ternary-If\obj\Debug\net7.0\If-ElseIf-Ternary-If.AssemblyInfo.cs
+D:\Pratikler\If-ElseIf-Ternary-If\obj\Debug\net7.0\If-ElseIf-Ternary-If.csproj.CoreCompileInputs.cache
+D:\Pratikler\If-ElseIf-Ternary-If\obj\Debug\net7.0\If-ElseIf-Ternary-If.dll
+D:\Pratikler\If-ElseIf-Ternary-If\obj\Debug\net7.0\refint\If-ElseIf-Ternary-If.dll
+D:\Pratikler\If-ElseIf-Ternary-If\obj\Debug\net7.0\If-ElseIf-Ternary-If.pdb
+D:\Pratikler\If-ElseIf-Ternary-If\obj\Debug\net7.0\If-ElseIf-Ternary-If.genruntimeconfig.cache
+D:\Pratikler\If-ElseIf-Ternary-If\obj\Debug\net7.0\ref\If-ElseIf-Ternary-If.dll
