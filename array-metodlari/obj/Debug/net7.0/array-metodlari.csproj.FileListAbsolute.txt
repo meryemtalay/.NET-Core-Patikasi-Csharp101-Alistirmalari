@@ -1,0 +1,14 @@
+D:\Pratikler\array-metodlari\bin\Debug\net7.0\array-metodlari.exe
+D:\Pratikler\array-metodlari\bin\Debug\net7.0\array-metodlari.deps.json
+D:\Pratikler\array-metodlari\bin\Debug\net7.0\array-metodlari.runtimeconfig.json
+D:\Pratikler\array-metodlari\bin\Debug\net7.0\array-metodlari.dll
+D:\Pratikler\array-metodlari\bin\Debug\net7.0\array-metodlari.pdb
+D:\Pratikler\array-metodlari\obj\Debug\net7.0\array-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\array-metodlari\obj\Debug\net7.0\array-metodlari.AssemblyInfoInputs.cache
+D:\Pratikler\array-metodlari\obj\Debug\net7.0\array-metodlari.AssemblyInfo.cs
+D:\Pratikler\array-metodlari\obj\Debug\net7.0\array-metodlari.csproj.CoreCompileInputs.cache
+D:\Pratikler\array-metodlari\obj\Debug\net7.0\array-metodlari.dll
+D:\Pratikler\array-metodlari\obj\Debug\net7.0\refint\array-metodlari.dll
+D:\Pratikler\array-metodlari\obj\Debug\net7.0\array-metodlari.pdb
+D:\Pratikler\array-metodlari\obj\Debug\net7.0\array-metodlari.genruntimeconfig.cache
+D:\Pratikler\array-metodlari\obj\Debug\net7.0\ref\array-metodlari.dll
