@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Pratikler\\Pratikler.csproj": {}
+    "D:\\Pratikler\\Pratikler.csproj": {}
   },
   "projects": {
-    "d:\\Pratikler\\Pratikler.csproj": {
+    "D:\\Pratikler\\Pratikler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Pratikler\\Pratikler.csproj",
+        "projectUniqueName": "D:\\Pratikler\\Pratikler.csproj",
         "projectName": "Pratikler",
-        "projectPath": "d:\\Pratikler\\Pratikler.csproj",
+        "projectPath": "D:\\Pratikler\\Pratikler.csproj",
         "packagesPath": "C:\\Users\\meryem\\.nuget\\packages\\",
-        "outputPath": "d:\\Pratikler\\obj\\",
+        "outputPath": "D:\\Pratikler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
