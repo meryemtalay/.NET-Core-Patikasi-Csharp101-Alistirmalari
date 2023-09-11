@@ -1,0 +1,14 @@
+D:\Pratikler\donguler-for-loop\while-foreach\bin\Debug\net7.0\while-foreach.exe
+D:\Pratikler\donguler-for-loop\while-foreach\bin\Debug\net7.0\while-foreach.deps.json
+D:\Pratikler\donguler-for-loop\while-foreach\bin\Debug\net7.0\while-foreach.runtimeconfig.json
+D:\Pratikler\donguler-for-loop\while-foreach\bin\Debug\net7.0\while-foreach.dll
+D:\Pratikler\donguler-for-loop\while-foreach\bin\Debug\net7.0\while-foreach.pdb
+D:\Pratikler\donguler-for-loop\while-foreach\obj\Debug\net7.0\while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\donguler-for-loop\while-foreach\obj\Debug\net7.0\while-foreach.AssemblyInfoInputs.cache
+D:\Pratikler\donguler-for-loop\while-foreach\obj\Debug\net7.0\while-foreach.AssemblyInfo.cs
+D:\Pratikler\donguler-for-loop\while-foreach\obj\Debug\net7.0\while-foreach.csproj.CoreCompileInputs.cache
+D:\Pratikler\donguler-for-loop\while-foreach\obj\Debug\net7.0\while-foreach.dll
+D:\Pratikler\donguler-for-loop\while-foreach\obj\Debug\net7.0\refint\while-foreach.dll
+D:\Pratikler\donguler-for-loop\while-foreach\obj\Debug\net7.0\while-foreach.pdb
+D:\Pratikler\donguler-for-loop\while-foreach\obj\Debug\net7.0\while-foreach.genruntimeconfig.cache
+D:\Pratikler\donguler-for-loop\while-foreach\obj\Debug\net7.0\ref\while-foreach.dll
