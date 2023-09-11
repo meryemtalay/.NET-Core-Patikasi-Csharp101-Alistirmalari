@@ -1,0 +1,14 @@
+D:\Pratikler\donguler-for-loop\bin\Debug\net7.0\donguler-for-loop.exe
+D:\Pratikler\donguler-for-loop\bin\Debug\net7.0\donguler-for-loop.deps.json
+D:\Pratikler\donguler-for-loop\bin\Debug\net7.0\donguler-for-loop.runtimeconfig.json
+D:\Pratikler\donguler-for-loop\bin\Debug\net7.0\donguler-for-loop.dll
+D:\Pratikler\donguler-for-loop\bin\Debug\net7.0\donguler-for-loop.pdb
+D:\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.AssemblyInfoInputs.cache
+D:\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.AssemblyInfo.cs
+D:\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+D:\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.dll
+D:\Pratikler\donguler-for-loop\obj\Debug\net7.0\refint\donguler-for-loop.dll
+D:\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.pdb
+D:\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.genruntimeconfig.cache
+D:\Pratikler\donguler-for-loop\obj\Debug\net7.0\ref\donguler-for-loop.dll
