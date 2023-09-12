@@ -1,0 +1,14 @@
+D:\Pratikler\recursive&extension-metot\bin\Debug\net7.0\recursive&extension-metot.exe
+D:\Pratikler\recursive&extension-metot\bin\Debug\net7.0\recursive&extension-metot.deps.json
+D:\Pratikler\recursive&extension-metot\bin\Debug\net7.0\recursive&extension-metot.runtimeconfig.json
+D:\Pratikler\recursive&extension-metot\bin\Debug\net7.0\recursive&extension-metot.dll
+D:\Pratikler\recursive&extension-metot\bin\Debug\net7.0\recursive&extension-metot.pdb
+D:\Pratikler\recursive&extension-metot\obj\Debug\net7.0\recursive&extension-metot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\recursive&extension-metot\obj\Debug\net7.0\recursive&extension-metot.AssemblyInfoInputs.cache
+D:\Pratikler\recursive&extension-metot\obj\Debug\net7.0\recursive&extension-metot.AssemblyInfo.cs
+D:\Pratikler\recursive&extension-metot\obj\Debug\net7.0\recursive&extension-metot.csproj.CoreCompileInputs.cache
+D:\Pratikler\recursive&extension-metot\obj\Debug\net7.0\recursive&extension-metot.dll
+D:\Pratikler\recursive&extension-metot\obj\Debug\net7.0\refint\recursive&extension-metot.dll
+D:\Pratikler\recursive&extension-metot\obj\Debug\net7.0\recursive&extension-metot.pdb
+D:\Pratikler\recursive&extension-metot\obj\Debug\net7.0\recursive&extension-metot.genruntimeconfig.cache
+D:\Pratikler\recursive&extension-metot\obj\Debug\net7.0\ref\recursive&extension-metot.dll
