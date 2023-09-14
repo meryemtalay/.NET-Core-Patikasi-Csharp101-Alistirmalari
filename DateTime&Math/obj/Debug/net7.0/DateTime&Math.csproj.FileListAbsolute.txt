@@ -1,0 +1,14 @@
+D:\Pratikler\DateTime&Math\obj\Debug\net7.0\DateTime&Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\DateTime&Math\obj\Debug\net7.0\DateTime&Math.AssemblyInfoInputs.cache
+D:\Pratikler\DateTime&Math\obj\Debug\net7.0\DateTime&Math.AssemblyInfo.cs
+D:\Pratikler\DateTime&Math\obj\Debug\net7.0\DateTime&Math.csproj.CoreCompileInputs.cache
+D:\Pratikler\DateTime&Math\bin\Debug\net7.0\DateTime&Math.exe
+D:\Pratikler\DateTime&Math\bin\Debug\net7.0\DateTime&Math.deps.json
+D:\Pratikler\DateTime&Math\bin\Debug\net7.0\DateTime&Math.runtimeconfig.json
+D:\Pratikler\DateTime&Math\bin\Debug\net7.0\DateTime&Math.dll
+D:\Pratikler\DateTime&Math\bin\Debug\net7.0\DateTime&Math.pdb
+D:\Pratikler\DateTime&Math\obj\Debug\net7.0\DateTime&Math.dll
+D:\Pratikler\DateTime&Math\obj\Debug\net7.0\refint\DateTime&Math.dll
+D:\Pratikler\DateTime&Math\obj\Debug\net7.0\DateTime&Math.pdb
+D:\Pratikler\DateTime&Math\obj\Debug\net7.0\DateTime&Math.genruntimeconfig.cache
+D:\Pratikler\DateTime&Math\obj\Debug\net7.0\ref\DateTime&Math.dll
