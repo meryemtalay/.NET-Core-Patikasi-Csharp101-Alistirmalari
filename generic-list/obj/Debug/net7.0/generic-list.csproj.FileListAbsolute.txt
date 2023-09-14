@@ -1,0 +1,14 @@
+D:\Pratikler\generic-list\bin\Debug\net7.0\generic-list.exe
+D:\Pratikler\generic-list\bin\Debug\net7.0\generic-list.deps.json
+D:\Pratikler\generic-list\bin\Debug\net7.0\generic-list.runtimeconfig.json
+D:\Pratikler\generic-list\bin\Debug\net7.0\generic-list.dll
+D:\Pratikler\generic-list\bin\Debug\net7.0\generic-list.pdb
+D:\Pratikler\generic-list\obj\Debug\net7.0\generic-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\generic-list\obj\Debug\net7.0\generic-list.AssemblyInfoInputs.cache
+D:\Pratikler\generic-list\obj\Debug\net7.0\generic-list.AssemblyInfo.cs
+D:\Pratikler\generic-list\obj\Debug\net7.0\generic-list.csproj.CoreCompileInputs.cache
+D:\Pratikler\generic-list\obj\Debug\net7.0\generic-list.dll
+D:\Pratikler\generic-list\obj\Debug\net7.0\refint\generic-list.dll
+D:\Pratikler\generic-list\obj\Debug\net7.0\generic-list.pdb
+D:\Pratikler\generic-list\obj\Debug\net7.0\generic-list.genruntimeconfig.cache
+D:\Pratikler\generic-list\obj\Debug\net7.0\ref\generic-list.dll
