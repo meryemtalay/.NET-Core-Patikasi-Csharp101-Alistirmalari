@@ -1,0 +1,14 @@
+D:\Pratikler\string-metotlar\bin\Debug\net7.0\string-metotlar.exe
+D:\Pratikler\string-metotlar\bin\Debug\net7.0\string-metotlar.deps.json
+D:\Pratikler\string-metotlar\bin\Debug\net7.0\string-metotlar.runtimeconfig.json
+D:\Pratikler\string-metotlar\bin\Debug\net7.0\string-metotlar.dll
+D:\Pratikler\string-metotlar\bin\Debug\net7.0\string-metotlar.pdb
+D:\Pratikler\string-metotlar\obj\Debug\net7.0\string-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\string-metotlar\obj\Debug\net7.0\string-metotlar.AssemblyInfoInputs.cache
+D:\Pratikler\string-metotlar\obj\Debug\net7.0\string-metotlar.AssemblyInfo.cs
+D:\Pratikler\string-metotlar\obj\Debug\net7.0\string-metotlar.csproj.CoreCompileInputs.cache
+D:\Pratikler\string-metotlar\obj\Debug\net7.0\string-metotlar.dll
+D:\Pratikler\string-metotlar\obj\Debug\net7.0\refint\string-metotlar.dll
+D:\Pratikler\string-metotlar\obj\Debug\net7.0\string-metotlar.pdb
+D:\Pratikler\string-metotlar\obj\Debug\net7.0\string-metotlar.genruntimeconfig.cache
+D:\Pratikler\string-metotlar\obj\Debug\net7.0\ref\string-metotlar.dll
