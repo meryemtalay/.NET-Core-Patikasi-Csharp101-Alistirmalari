@@ -1,0 +1,14 @@
+D:\Pratikler\(3)koleksiyonlar-algoritma\bin\Debug\net7.0\(3)koleksiyonlar-algoritma.exe
+D:\Pratikler\(3)koleksiyonlar-algoritma\bin\Debug\net7.0\(3)koleksiyonlar-algoritma.deps.json
+D:\Pratikler\(3)koleksiyonlar-algoritma\bin\Debug\net7.0\(3)koleksiyonlar-algoritma.runtimeconfig.json
+D:\Pratikler\(3)koleksiyonlar-algoritma\bin\Debug\net7.0\(3)koleksiyonlar-algoritma.dll
+D:\Pratikler\(3)koleksiyonlar-algoritma\bin\Debug\net7.0\(3)koleksiyonlar-algoritma.pdb
+D:\Pratikler\(3)koleksiyonlar-algoritma\obj\Debug\net7.0\(3)koleksiyonlar-algoritma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\(3)koleksiyonlar-algoritma\obj\Debug\net7.0\(3)koleksiyonlar-algoritma.AssemblyInfoInputs.cache
+D:\Pratikler\(3)koleksiyonlar-algoritma\obj\Debug\net7.0\(3)koleksiyonlar-algoritma.AssemblyInfo.cs
+D:\Pratikler\(3)koleksiyonlar-algoritma\obj\Debug\net7.0\(3)koleksiyonlar-algoritma.csproj.CoreCompileInputs.cache
+D:\Pratikler\(3)koleksiyonlar-algoritma\obj\Debug\net7.0\(3)koleksiyonlar-algoritma.dll
+D:\Pratikler\(3)koleksiyonlar-algoritma\obj\Debug\net7.0\refint\(3)koleksiyonlar-algoritma.dll
+D:\Pratikler\(3)koleksiyonlar-algoritma\obj\Debug\net7.0\(3)koleksiyonlar-algoritma.pdb
+D:\Pratikler\(3)koleksiyonlar-algoritma\obj\Debug\net7.0\(3)koleksiyonlar-algoritma.genruntimeconfig.cache
+D:\Pratikler\(3)koleksiyonlar-algoritma\obj\Debug\net7.0\ref\(3)koleksiyonlar-algoritma.dll
