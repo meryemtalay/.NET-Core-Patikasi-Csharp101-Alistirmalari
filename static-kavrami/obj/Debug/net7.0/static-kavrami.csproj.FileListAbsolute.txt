@@ -1,0 +1,14 @@
+D:\Pratikler\static-kavrami\bin\Debug\net7.0\static-kavrami.exe
+D:\Pratikler\static-kavrami\bin\Debug\net7.0\static-kavrami.deps.json
+D:\Pratikler\static-kavrami\bin\Debug\net7.0\static-kavrami.runtimeconfig.json
+D:\Pratikler\static-kavrami\bin\Debug\net7.0\static-kavrami.dll
+D:\Pratikler\static-kavrami\bin\Debug\net7.0\static-kavrami.pdb
+D:\Pratikler\static-kavrami\obj\Debug\net7.0\static-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\static-kavrami\obj\Debug\net7.0\static-kavrami.AssemblyInfoInputs.cache
+D:\Pratikler\static-kavrami\obj\Debug\net7.0\static-kavrami.AssemblyInfo.cs
+D:\Pratikler\static-kavrami\obj\Debug\net7.0\static-kavrami.csproj.CoreCompileInputs.cache
+D:\Pratikler\static-kavrami\obj\Debug\net7.0\static-kavrami.dll
+D:\Pratikler\static-kavrami\obj\Debug\net7.0\refint\static-kavrami.dll
+D:\Pratikler\static-kavrami\obj\Debug\net7.0\static-kavrami.pdb
+D:\Pratikler\static-kavrami\obj\Debug\net7.0\static-kavrami.genruntimeconfig.cache
+D:\Pratikler\static-kavrami\obj\Debug\net7.0\ref\static-kavrami.dll
