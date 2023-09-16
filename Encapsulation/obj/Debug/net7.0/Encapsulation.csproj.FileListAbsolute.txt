@@ -1,0 +1,14 @@
+D:\Pratikler\Encapsulation\bin\Debug\net7.0\Encapsulation.exe
+D:\Pratikler\Encapsulation\bin\Debug\net7.0\Encapsulation.deps.json
+D:\Pratikler\Encapsulation\bin\Debug\net7.0\Encapsulation.runtimeconfig.json
+D:\Pratikler\Encapsulation\bin\Debug\net7.0\Encapsulation.dll
+D:\Pratikler\Encapsulation\bin\Debug\net7.0\Encapsulation.pdb
+D:\Pratikler\Encapsulation\obj\Debug\net7.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfoInputs.cache
+D:\Pratikler\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfo.cs
+D:\Pratikler\Encapsulation\obj\Debug\net7.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Pratikler\Encapsulation\obj\Debug\net7.0\Encapsulation.dll
+D:\Pratikler\Encapsulation\obj\Debug\net7.0\refint\Encapsulation.dll
+D:\Pratikler\Encapsulation\obj\Debug\net7.0\Encapsulation.pdb
+D:\Pratikler\Encapsulation\obj\Debug\net7.0\Encapsulation.genruntimeconfig.cache
+D:\Pratikler\Encapsulation\obj\Debug\net7.0\ref\Encapsulation.dll
