@@ -1,0 +1,14 @@
+D:\Pratikler\telefon-rehberi-uygulamasi\obj\Debug\net7.0\telefon-rehberi-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\telefon-rehberi-uygulamasi\obj\Debug\net7.0\telefon-rehberi-uygulamasi.AssemblyInfoInputs.cache
+D:\Pratikler\telefon-rehberi-uygulamasi\obj\Debug\net7.0\telefon-rehberi-uygulamasi.AssemblyInfo.cs
+D:\Pratikler\telefon-rehberi-uygulamasi\obj\Debug\net7.0\telefon-rehberi-uygulamasi.csproj.CoreCompileInputs.cache
+D:\Pratikler\telefon-rehberi-uygulamasi\bin\Debug\net7.0\telefon-rehberi-uygulamasi.exe
+D:\Pratikler\telefon-rehberi-uygulamasi\bin\Debug\net7.0\telefon-rehberi-uygulamasi.deps.json
+D:\Pratikler\telefon-rehberi-uygulamasi\bin\Debug\net7.0\telefon-rehberi-uygulamasi.runtimeconfig.json
+D:\Pratikler\telefon-rehberi-uygulamasi\bin\Debug\net7.0\telefon-rehberi-uygulamasi.dll
+D:\Pratikler\telefon-rehberi-uygulamasi\bin\Debug\net7.0\telefon-rehberi-uygulamasi.pdb
+D:\Pratikler\telefon-rehberi-uygulamasi\obj\Debug\net7.0\telefon-rehberi-uygulamasi.dll
+D:\Pratikler\telefon-rehberi-uygulamasi\obj\Debug\net7.0\refint\telefon-rehberi-uygulamasi.dll
+D:\Pratikler\telefon-rehberi-uygulamasi\obj\Debug\net7.0\telefon-rehberi-uygulamasi.pdb
+D:\Pratikler\telefon-rehberi-uygulamasi\obj\Debug\net7.0\telefon-rehberi-uygulamasi.genruntimeconfig.cache
+D:\Pratikler\telefon-rehberi-uygulamasi\obj\Debug\net7.0\ref\telefon-rehberi-uygulamasi.dll
